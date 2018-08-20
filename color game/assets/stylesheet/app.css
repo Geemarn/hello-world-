@@ -1,0 +1,56 @@
+body {
+	background: #232323;
+	margin: 0;
+	text-transform: uppercase;
+}
+header {
+	color: white;
+	background: steelblue;
+	font-size: 3em;
+	text-align: center;
+	padding: 10px;
+}
+nav {
+	background: white;
+	text-align: center;
+	line-height: 30px;
+}
+table {
+	width:30%;
+	margin:auto;
+}
+td {
+	width: 25%;
+	height: 100px;
+	background: turquoise;
+	border-radius: 20%;
+	margin: 1.667%;
+}
+#headerText {
+	font-size: 5rem;
+	font-weight: 500;
+	font-family: arial;
+}
+button {
+	font-size: 18px;
+	background: none;
+	color: steelblue;
+	border:none;
+	outline: none;
+	margin: 0 10px;
+}
+button:hover {
+	background: steelblue;
+	line-height: 30px;
+	color: #fff;
+}
+#navText {
+	display: inline;
+	margin-left: 100px
+	
+}
+.clickedBtn {
+	line-height: 30px;
+	color: #fff;
+	background: steelblue;
+}
