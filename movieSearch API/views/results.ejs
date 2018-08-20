@@ -1,0 +1,10 @@
+<% include partials/header %>
+<div id= "container2">
+	<% data["Search"].forEach(function(film){ %>
+		<li><%= film["Title"] %></li>
+		<p><%= film["Year"] %></p>
+	<% }) %>
+	<a href= "/">Go to search page</a>
+</div>
+	
+<% include partials/footer %>
