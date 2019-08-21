@@ -1,1 +1,1 @@
-!!!!........mini projects on MEAN stack.......!!!!!
+!!!!........mini web app projects.......!!!!!
